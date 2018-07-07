@@ -1,4 +1,4 @@
-package com.reactalipay;
+package com.alipay;
 
 import android.app.Application;
 
