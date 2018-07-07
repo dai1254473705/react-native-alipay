@@ -3784,6 +3784,10 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-yunpeng-alipay@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.npm.taobao.org/react-native-yunpeng-alipay/download/react-native-yunpeng-alipay-2.0.0.tgz#a9d3d68a5eef2e5c75bb66c460384e1288d9aaad"
+
 react-native@0.51.0:
   version "0.51.0"
   resolved "http://registry.npm.taobao.org/react-native/download/react-native-0.51.0.tgz#fe25934b3030fd323f3ca1a70f034133465955ed"
